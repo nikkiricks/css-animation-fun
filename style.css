@@ -18,19 +18,9 @@ body {
   animation: text-flicker-in-glow 4s linear both;
 }
 
-i {
-  border: solid white;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 20px;
-  text-align: center;
-  margin: 0% 10% 20% 45%;
-}
-
-.down {
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-  color: white;
+.arrow {
+  margin-left: 40%;
+  height: 150px;
 }
 
 .heartbeat {
