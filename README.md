@@ -3,7 +3,7 @@
 You can see the website here:
 hi-i-am-nikki.surge.sh
 
-![](images/screen_shot.png)
+![](images/screenshot.png)
 
 I was wanting to play around with css animation and decided to build a simple landing page with my social links.
 
