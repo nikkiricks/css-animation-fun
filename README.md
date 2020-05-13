@@ -1,7 +1,7 @@
 # css-animation-fun
 
 You can see the website here:
-hi-i-am-nikki.surge.sh
+[hi-i-am-nikki.surge.sh](hi-i-am-nikki.surge.sh)
 
 ![](images/screenshot.png)
 
